@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aapnu Gam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apptitle">Welcome to Aapnu Gam Online Complaint Management</string>
+    <string name="provide_your_email_and_password_to_register">Provide your Email and Password to Register</string>
+    <string name="Username">Username</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Don\'t have an Account?</string>
+    <string name="forgot_your_password">Forgot your Password?</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227934529955",
+    "project_id": "aapnugam-208b5",
+    "storage_bucket": "aapnugam-208b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227934529955:android:4291dd3ceac34176f55216",
+        "android_client_info": {
+          "package_name": "com.example.onlinecomplaintmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227934529955-7o6lt0knf9tjkso8g0hod6asv2duqvod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinecomplaintmanagement",
+            "certificate_hash": "070c8bbb57a0f292f7d183dd8d505f1b2d2d7b15"
+          }
+        },
+        {
+          "client_id": "227934529955-11njn5gnvouv267fp0ud1li34n0504hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFsG0haHOi4V3KV3DcotkK4qytIlSBew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227934529955-11njn5gnvouv267fp0ud1li34n0504hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
